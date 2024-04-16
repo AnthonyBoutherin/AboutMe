@@ -35,8 +35,9 @@
         android:background="@color/colorAccent"
         android:fontFamily="@font/roboto"
         android:text="@string/done"
-        android:textColor="@color/white"
-        android:textSize="@dimen/text_size" />
+        android:textColor="#455A64"
+        android:textSize="@dimen/text_size"
+        android:textStyle="bold" />
 
     <TextView
         android:id="@+id/nickname_text"
